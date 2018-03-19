@@ -8,6 +8,7 @@ function logShout (string) {
   console.log()
 }
 function sayHiToGrandma (string) {
-  return `
+  return `I can't hear you!`
+  return `YES INDEED!`
   
 }
