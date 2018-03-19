@@ -7,3 +7,9 @@ function whisper (string) {
 function logShout (string) {
   console.log(string.toUpperCase())
 }
+function sayHiToGrandma (string) {
+  var alteredString = string
+  if (alteredString.toLowerCase() === string) { 
+    return `I can't hear you!`
+  }
+}
